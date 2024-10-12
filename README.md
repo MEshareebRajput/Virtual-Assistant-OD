@@ -1,6 +1,3 @@
-If you want to add images that are not specified yet or you need different images to include in your README, please specify which images you would like to use. However, here’s a generic template where you can insert your images without actually adding specific images:
-
-```markdown
 # OD - Your Virtual Assistant 🤖
 
 Welcome to the **OD Virtual Assistant** repository! 🎉 This project showcases a sophisticated virtual assistant designed for interactive user engagement, allowing users to communicate effortlessly through voice commands.
