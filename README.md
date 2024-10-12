@@ -12,7 +12,6 @@ This repository contains:
 - **JavaScript** logic for processing voice commands and providing responses 🔍
 - A feature set that allows users to open websites and check the time/date 🕒
 
-![Your First Image Description](OD_Virtual_Assistant.PNG) <!-- Replace with your image link -->
 
 ## Understanding OD Virtual Assistant 🤔
 
