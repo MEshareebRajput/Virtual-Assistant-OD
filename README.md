@@ -1,6 +1,7 @@
-# OD - Your Virtual Assistant 🤖
+If you want to add images that are not specified yet or you need different images to include in your README, please specify which images you would like to use. However, here’s a generic template where you can insert your images without actually adding specific images:
 
-<img src="./image/logo.jpg" alt="OD Logo" width="200"/>
+```markdown
+# OD - Your Virtual Assistant 🤖
 
 Welcome to the **OD Virtual Assistant** repository! 🎉 This project showcases a sophisticated virtual assistant designed for interactive user engagement, allowing users to communicate effortlessly through voice commands.
 
@@ -11,7 +12,7 @@ This repository contains:
 - **JavaScript** logic for processing voice commands and providing responses 🔍
 - A feature set that allows users to open websites and check the time/date 🕒
 
-<img src="./image/interface.jpg" alt="Virtual Assistant Interface" width="400"/> <!-- Adjust width as needed -->
+![Your First Image Description](link-to-your-first-image.jp) 
 
 ## Understanding OD Virtual Assistant 🤔
 
@@ -76,7 +77,5 @@ For questions or suggestions about this project:
 
 - **Email**: muhammadeshareeb986@gmail.com 📧
 - **LinkedIn**: [Muhammad Eshareeb](https://www.linkedin.com/in/muhammadeshareeb986/) 🦸‍♂️
-
-<img src="./image/thankyou.jpg" alt="Thank You!" width="200"/> <!-- Adjust width as needed -->
 
 Happy Coding! 🎉
